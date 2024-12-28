@@ -32,23 +32,26 @@
 - [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🗒️ Command To Add on Bot Father To Start For Bot
-
-```
-/start - Start the Bot
-/generate - Generate Session
-/cancel - Cancel the process
-/help - This Message
-/about - About The Bot
-```
-
+## 🗒️ 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙏𝙤 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙎𝙩𝙧𝙞𝙣𝙜 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙁𝙤𝙧 𝙐𝙨𝙚𝙧𝘽𝙤𝙩 ʕʘ̅͜ʘ̅ʔ
 
 ```
 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙚 𝙋𝙮𝙧𝙤𝙜𝙧𝙖𝙢 𝙎𝙩𝙧𝙞𝙣𝙜 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙁𝙤𝙧 𝙔𝙤𝙪𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 :)
 𝘿𝙚𝙥𝙡𝙤𝙮𝙚𝙙 𝘽𝙮 @𝙃𝙚𝙡𝙥𝙙𝙚𝙨𝙠_𝘾𝙝𝙖𝙩𝙨𝙗𝙤𝙩 🫣
 ```
+- [»] 𝐓𝐡𝐞 𝐅𝐢𝐫𝐬𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐓𝐨 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐑𝐪𝐮𝐫𝐞𝐦𝐞𝐧𝐭𝐬 𝐟𝐨𝐫 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧🌈™
+  
+```
+pip install pyrofork tgcrypto
+```
+
+- [»] 𝐒𝐞𝐜𝐨𝐧𝐝 𝐂𝐨𝐦𝐚𝐧𝐝 𝐭𝐨 𝐒𝐭𝐚𝐫𝐭 𝐓𝐡𝐞 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐊𝐞𝐲🌈™
+
+  ```
+  python string_gen.py
+  ```
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ```
 ★彡[ᴛʜɪꜱ ʙᴏʏ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ ᴀɴᴅ ᴘʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ @ʜᴇʟᴘᴅᴇꜱᴋ_ᴄʜᴀᴛꜱʙᴏᴛ]彡★
