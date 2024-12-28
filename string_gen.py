@@ -11,7 +11,7 @@ micky_ = """
                  (__)             
 
 Copyright (C) 2020-2023 by Tech-Shreyansh@Github, < https://github.com/TechyShreyansh >.
-This file is part of < https://github.com/TechyShreyansh/STRING-SESSION > Project, and is released under the "GNU v3.0 License Agreement".
+This file is part of < https://github.com/TechyShreyansh/String-Session-Gen > Project, and is released under the "GNU v3.0 License Agreement".
 Please see < https://github.com/TechyShreyansh/STRING-SESSION/blob/main/LICENSE > All rights reserved.
 """
 
