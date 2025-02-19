@@ -16,6 +16,12 @@
 
 - Forks ☞ [forks](https://img.shields.io/github/forks/techyshreyansh/STRING-SESSION?style=social)
 
+  ### ⛺ Optional Vars
+ 
+ - `STRINGSESSION`
+     - only If you want to use on cloud hosts use [string_gen.py](https://github.com/TechyShreyansh/MickyUB_Session-Gen/blob/main/string_gen.py) to generate OR
+[![Run on Repl.it](https://replit.com/@TechShreyansh/String-Session)
+
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
