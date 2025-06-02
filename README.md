@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/Resources@main/Images/string_session.jpeg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/TechyShreyansh/Pyrogram-Session-Gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Pyrogram-Session-Gen-Gen&theme=chartreuse-dark"></a>
+<a href="https://github.com/TechyShreyansh/Pyrogram-Session-Gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Pyrogram-Session-Gen&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
