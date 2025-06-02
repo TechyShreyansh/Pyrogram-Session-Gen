@@ -56,6 +56,14 @@
   ```
   python string_gen.py
   ```
+- [»] One-Line Command to Run the Script🌈™
+
+```
+git clone https://github.com/TechyShreyansh/String-Session-Gen
+cd String-Session-Gen
+pip install -r requirements.txt
+python string_gen.py
+```
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
