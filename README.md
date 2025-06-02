@@ -20,7 +20,7 @@
  
  - `STRINGSESSION`
      - only If you want to use on cloud hosts use [string_gen.py](https://github.com/TechyShreyansh/String-Session-Gen/blob/main/string_gen.py) to generate OR
-[![Run on Repl.it](https://replit.com/badge)](https://replit.com/@TechShreyansh/String-Session-Gen)
+[![Run on Repl.it](https://replit.com/badge)](https://replit.com/@TechShreyansh/Pyrogram-String-Session)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
