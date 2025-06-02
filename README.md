@@ -3,7 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/Resources@main/Images/string_session.jpeg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
-<a href="https://github.com/TechyShreyansh/Pyrogram-Session-Gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Pyrogram-Session-Gen&theme=chartreuse-dark"></a>
+<a href="https://github.com/TechyShreyansh/String-Session-Gen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=String-Session-Gen&theme=chartreuse-dark"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,13 +14,13 @@
 
 - [ᴛᴇᴄʜ ꜱʜʀᴇʏᴀɴꜱʜ](https://telegram.me.Helpdesk_Chatsbot) ☞ ![followers](https://img.shields.io/github/followers/techyshreyansh?style=social)
 
-- Forks ☞ [forks](https://img.shields.io/github/forks/techyshreyansh/Pyrogram-Session-Gen?style=social)
+- Forks ☞ [forks](https://img.shields.io/github/forks/techyshreyansh/String-Session-Gen?style=social)
 
   ### ⛺ Optional Vars
  
  - `STRINGSESSION`
-     - only If you want to use on cloud hosts use [string_gen.py](https://github.com/TechyShreyansh/Pyrogram-Session-Gen/blob/main/string_gen.py) to generate OR
-[![Run on Repl.it](https://replit.com/badge)](https://replit.com/@TechShreyansh/Pyrogram-Session-Gen)
+     - only If you want to use on cloud hosts use [string_gen.py](https://github.com/TechyShreyansh/String-Session-Gen/blob/main/string_gen.py) to generate OR
+[![Run on Repl.it](https://replit.com/badge)](https://replit.com/@TechShreyansh/String-Session-Gen)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
